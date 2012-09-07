@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:background="@drawable/selector_list"
+	android:layout_height="fill_parent">
+	<com.scilla.kavithai.Tamilfont
+		android:id="@+id/titlename"
+		android:background="@drawable/selector_list"
+		android:layout_width="wrap_content"
+		android:layout_height="fill_parent"
+		android:layout_alignParentTop="true"
+		android:textColor="#0E33AE"
+		 android:textSize="18dip"
+		android:layout_alignParentLeft="true"
+		android:padding="18dip" />
+	<ImageView
+		android:layout_width="wrap_content"
+		android:layout_height="fill_parent"
+		android:padding="10dip"
+		android:background="@drawable/selector_list"
+		android:textColor="#000" 
+		android:layout_alignParentRight="true"
+		android:src="@drawable/spinner_new" />
+</RelativeLayout>

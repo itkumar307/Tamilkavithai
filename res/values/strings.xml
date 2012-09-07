@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, TamilkavithaigalActivity!</string>
+	<string name="app_name">Tamil kavithaigal</string>
+	<string name="appa">«ôÀ¡</string>
+	<string name="amma">«õÁ¡</string>
+	<string name="yakkar">Å¢üôÀ¨ÉìÌ Å¢¨Ç¿¢Äõ</string>
+	<string name="irantha_pin">þÈó¾ À¢ý</string>
+	<string name="nanbanidam_irunthu">¿ñÀÉ¢¼õ þÕóÐ </string>
+	<string name="natpu_kathal">¿ðÒ - ¸¡¾ø </string>
+	<string name="pitithu_petikamal">À¢Êò¾Ðõ-À¢Êì¸¡¾Ðõ </string>
+	<string name="unnodu_vaalgaiyil">¯ý§É¡Î Å¡ú¨¸Â¢ø</string>
+	<string name="valimai_antha_un_natpu">ÅÄ¢¨ÁÂ¡É¾ ¯ý ¿ðÒ</string>
+	<string name="yennavalay">±ýÉÅ§Ç</string>
+	<string name="thodarppukku">¦¾¡¼÷ÒìÌ</string>
+	<string name="title">¯ý§É¡Î ±ý §ÀîÍì¸û  \n       «ýÒ¼ý \n     Á½¢¸ñ¼ý </string>
+	<string name="contact">mail to us \n tech@scilla.in</string>
+</resources>

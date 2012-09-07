@@ -1,0 +1,6 @@
+<resources>
+    <style name="CustomTheme" parent="android:Theme">
+         <item name="android:background">#000</item>
+        <item name="android:windowTitleSize">50dip</item>
+        </style>
+        </resources>

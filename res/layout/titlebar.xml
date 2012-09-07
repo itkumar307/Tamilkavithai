@@ -1,0 +1,20 @@
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/header"
+	android:background="#7E2228"
+	android:layout_width="fill_parent"
+	android:layout_height="50dip">
+
+	<TextView
+		android:id="@+id/app"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:background="#FE2E2E"
+		android:layout_centerHorizontal="true"
+		android:layout_centerVertical="true"
+		android:textColor="#FFF6F6F6"
+		android:text="Recipe"
+		android:singleLine="true" />
+
+
+</RelativeLayout>
